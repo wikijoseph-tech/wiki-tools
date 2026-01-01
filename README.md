@@ -136,6 +136,9 @@ Feel free to reach out for technical discussions, feedback, or collaboration:
 - **Bilibili**  
   https://space.bilibili.com/1561886967
 
+- **Youtube**  
+  https://www.youtube.com/channel/UC-ViN6WFew9-DVaw9F1WARw
+
 - **WeChat**  
   ![WeChat](https://github.com/wikijoseph-tech/wiki-tools/blob/main/vx.jpg)
 
