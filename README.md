@@ -103,13 +103,19 @@ All projects focus on **practical usability** and are continuously improved base
 ## 🛠 技术方向 | Technical Focus
 
 - 自动化工具（Automation）
-- 消息系统 / 即时通讯平台
+- 消息自动化 / 即时通讯平台（Discord / WhatsApp / 钉钉 / 飞书 等）
+- 网站 / App 自动化工具
+- 数据爬虫 / 数据采集
+- Discord 各类工具（群管 / 私信 / 转发 / Bot / 客户端）
 - 跨平台数据处理
 - AI + 工具化应用
 - 开发者效率工具（DevTools）
 
 - Automation tools
-- Messaging systems / IM platforms
+- Messaging automation / IM platforms (Discord / WhatsApp / DingTalk / Feishu, etc.)
+- Website & App automation tools
+- Data crawling & data collection
+- Discord tooling (server management / DM / forwarding / bots / clients)
 - Cross-platform data processing
 - AI-powered tooling
 - Developer productivity & DevTools
